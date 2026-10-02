@@ -1,0 +1,3 @@
+/Users/mera/documents/tuition/4semester/AISD/lr3/build/CMakeFiles/lab3.dir
+/Users/mera/documents/tuition/4semester/AISD/lr3/build/CMakeFiles/edit_cache.dir
+/Users/mera/documents/tuition/4semester/AISD/lr3/build/CMakeFiles/rebuild_cache.dir
