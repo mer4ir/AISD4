@@ -1,0 +1,34 @@
+=== Balancedset experiments ===
+
+--- Container size: 1000 ---
+  Fill (avg over 100 trials): 0.1301 ms
+  Search (avg over 1000 queries): 0.0000 ms
+  Insert/Erase (avg over 1000 ops): 0.0001 ms
+
+--- Container size: 10000 ---
+  Fill (avg over 100 trials): 0.8248 ms
+  Search (avg over 1000 queries): 0.0001 ms
+  Insert/Erase (avg over 1000 ops): 0.0002 ms
+
+--- Container size: 100000 ---
+  Fill (avg over 100 trials): 12.7672 ms
+  Search (avg over 1000 queries): 0.0001 ms
+  Insert/Erase (avg over 1000 ops): 0.0002 ms
+
+=== std::vector experiments ===
+
+--- Container size: 1000 ---
+  Fill (avg over 100 trials): 0.0912 ms
+  Search (avg over 1000 queries): 0.0000 ms
+  Insert/Erase (avg over 1000 ops): 0.0003 ms
+
+--- Container size: 10000 ---
+  Fill (avg over 100 trials): 8.3977 ms
+  Search (avg over 1000 queries): 0.0000 ms
+  Insert/Erase (avg over 1000 ops): 0.0033 ms
+
+--- Container size: 100000 ---
+  Fill (avg over 100 trials): 841.2688 ms
+  Search (avg over 1000 queries): 0.0000 ms
+  Insert/Erase (avg over 1000 ops): 0.0332 ms
+

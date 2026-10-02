@@ -1,0 +1,4 @@
+/Users/mera/documents/tuition/4semester/AISD/lr1/build/CMakeFiles/lr1_demo.dir
+/Users/mera/documents/tuition/4semester/AISD/lr1/build/CMakeFiles/lr1_experiments.dir
+/Users/mera/documents/tuition/4semester/AISD/lr1/build/CMakeFiles/edit_cache.dir
+/Users/mera/documents/tuition/4semester/AISD/lr1/build/CMakeFiles/rebuild_cache.dir
